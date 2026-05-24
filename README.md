@@ -101,8 +101,8 @@ This project is licensed under the MIT License. See LICENSE for more details.
 Contact
 For questions or suggestions, feel free to contact:
 
-Name: [Sujith Kumar]
-Email: [aakramsujithkumar777@gmail.com]
+Name: [Sujith Kumar Aakaram]
+Email: [aakaramsujithkumar777@gmail.com]
 GitHub: [https://github.com/ASKumar07/Waste-Classification-with-Explainable-AI]
 Acknowledgments
 TensorFlow/Keras for the deep learning framework.
