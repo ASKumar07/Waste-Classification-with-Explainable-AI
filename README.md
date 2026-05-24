@@ -101,9 +101,9 @@ This project is licensed under the MIT License. See LICENSE for more details.
 Contact
 For questions or suggestions, feel free to contact:
 
-Name: [Manikanta]
-Email: [manikantabalaji14@gmail.com]
-GitHub: [https://github.com/manikan2848y/WasteFlask]
+Name: [Sujith Kumar]
+Email: [aakramsujithkumar777@gmail.com]
+GitHub: [https://github.com/ASKumar07/Waste-Classification-with-Explainable-AI]
 Acknowledgments
 TensorFlow/Keras for the deep learning framework.
 DenseNet121 architecture for pre-trained weights.
