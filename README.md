@@ -35,7 +35,7 @@ project-root/
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/waste-classification.git
+git clone https://github.com/ASKumar07/waste-classification.git
 cd waste-classification
 Create a virtual environment:
 
